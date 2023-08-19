@@ -36,6 +36,3 @@ The task will automatically install the necessary libraries for you.
 
 This will open a browser window displaying the list of notebooks in the repository. Click on a notebook to open it and execute the cells.
 
-## License
-
-This project is licensed under the MIT License.
